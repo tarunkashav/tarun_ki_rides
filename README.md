@@ -78,7 +78,7 @@ Feedback analysis shows recurring themes:
 
 -Vehicle cleanliness
 
-*******Data Collection Improvements:
+7. Data Collection Improvements:
 
 Insights:
 
